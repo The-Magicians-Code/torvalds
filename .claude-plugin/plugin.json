@@ -1,5 +1,5 @@
 {
-  "name": "torvalds-style",
+  "name": "torvalds",
   "description": "Agent skills distilled from the Linux kernel's Documentation/process: coding style, verification gates, patch discipline, maintenance doctrine, and AI authorship rules.",
   "version": "0.1.0",
   "author": {

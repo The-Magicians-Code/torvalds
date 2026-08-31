@@ -1,4 +1,4 @@
-# torvalds-style
+# torvalds
 
 Agent skills distilled from the Linux kernel's `Documentation/process/` — three decades of
 hard-won discipline about writing, verifying, committing, and maintaining code, translated
