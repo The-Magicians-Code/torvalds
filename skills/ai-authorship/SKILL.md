@@ -52,7 +52,9 @@ Before reporting any discovered bug or proposing its fix:
 5. Commit with a full problem/solution message, the bug-introducing commit referenced,
    and AI-assistance disclosed.
 6. **Classify bug vs. security vulnerability** before reporting: vulnerabilities go to
-   the project's private disclosure channel, never a public tracker or PR.
+   the project's private disclosure channel, never a public tracker or PR. Treat
+   memory-safety, injection, and privilege-boundary bugs as vulnerabilities by default —
+   don't wait for confirmation to route them privately.
 
 ### 4. State what could NOT be verified
 
